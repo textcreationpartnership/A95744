@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To Friends in Ireland, and elsewhere a mournful word to the merry-hearted in Zion; with a word of comfort to her bowed down mourners. Written in great exercise of soul and spirit in obedience to the Lord. By Thomas Upsher.</title>
+            <author>Upsher, Thomas, 1672-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95744</idno>
+            <idno type="STC">Wing U123</idno>
+            <idno type="STC">ESTC R230513</idno>
+            <idno type="EEBO-CITATION">99896035</idno>
+            <idno type="PROQUEST">99896035</idno>
+            <idno type="VID">153703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153703)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2375:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To Friends in Ireland, and elsewhere a mournful word to the merry-hearted in Zion; with a word of comfort to her bowed down mourners. Written in great exercise of soul and spirit in obedience to the Lord. By Thomas Upsher.</title>
+                  <author>Upsher, Thomas, 1672-1704.</author>
+               </titleStmt>
+               <extent>[2], 5-22 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Dated at end: Dublin 15th of the 3d month, 1699.</note>
+                  <note>DFo copy, reel 2375, missing A1.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Early works to 1800.</term>
+               <term>Quakers --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153703:1"/>
+            <p>TO FRIENDS IN <hi>IRELAND,</hi> And elſewhere; A Mournful Word to the merry-hearted in <hi>Zion;</hi> with a word of Comfort to her Bowed down Mourners.</p>
+            <p>Written in great Excerciſe of Soul and Spirit in obedience to the LORD.</p>
+            <p>By <hi>THOMAS UPSHER.</hi>
+            </p>
+            <q>
+               <p>Wo to you that laugh now, for you ſhall mourn and weep.</p>
+               <bibl>
+                  <hi>Luke</hi> 6. verſ. 25.</bibl>
+            </q>
+            <q>
+               <p>Neither filthineſs, nor fooliſh talking, nor Jeſting, but giving thanks.</p>
+               <bibl>
+                  <hi>Epheſ.</hi> 5. verſ. 4.</bibl>
+            </q>
+            <q>
+               <p>Bleſſed are they that mourn, for they ſhall be comforted.</p>
+               <bibl>
+                  <hi>Matth.</hi> 5. verſ. 4.</bibl>
+            </q>
+            <q>
+               <p>Theſe are they which came out of great tribu<g ref="char:EOLhyphen"/>lations, and have waſhed their Robes, and made them white in the Blood of the Lamb.</p>
+               <bibl>
+                  <hi>Rev.</hi> 7.14.</bibl>
+            </q>
+            <p>Printed in the Year 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153703:2"/>
+            <pb n="5" facs="tcp:153703:2"/>
+            <head>A mournful Word to the merry heart<g ref="char:EOLhyphen"/>ed in Zion, with a Word of Com<g ref="char:EOLhyphen"/>fort to her Bowed down Mourners.</head>
+            <p>FRIENDS that profeſs the ſelf-denying way of the Lord JESUS CHRIST, (who was a Man of ſorrows, and deeply acquainted with grief,) and yet are of a jolly ſpirit, and of a merry heart, who can laugh and jeſt at pleaſure, ſaying, <hi>There is no harm in it.</hi>
+            </p>
+            <p>I have this to ſay to you, whether you will hear or forbear, that the Lord is diſpleaſed with you, and calls for Mourning and Weeping in ſecret places, inſtead of Laughter and Jeſt<g ref="char:EOLhyphen"/>ing in Company. And I muſt needs tell you, that if ever you were rightly bowed, and humbled in a ſence of
+<pb n="6" facs="tcp:153703:3"/>your loſt and undon ſtates, and were made to lament and mourn in the ſight and feeling of your wretchedneſs, you have too ſoon quitted that Exer<g ref="char:EOLhyphen"/>ciſe; you have not paſt often enough through the fire, neither have you been baptized enough with the Wa<g ref="char:EOLhyphen"/>ters of many tribulations. You have not drunk ſufficiently of the Cup of trembling at the hand of the Lord, and therefore you muſt come down from your pleaſant and delightful Seats, and be humbled as in Duſt and Aſhes before the Lord of Hoſts, whoſe fire is in <hi>Zion,</hi> and his furnace in <hi>Jeruſalem;</hi> and you muſt paſs through it again, and again, till all your droſs is taken away, and all your light chaff be burnt up. O Friends, you are thoſe that are at eaſe in <hi>Zion,</hi> and have taken up a reſt too ſoon, and now the Lord is about to diſturb you, and rouze you up out of your falſe ſecurity; Bleſſed are thoſe that are willing to come forth to Judgment at the ſound and Alarum
+<pb n="7" facs="tcp:153703:3"/>of the Trumpet of his eternal Word, for I proclaim in the Lords power that the time haſtens and draws on apace; that Judgment ſhall eminent<g ref="char:EOLhyphen"/>ly and ſearchingly begin at the Houſe of God, in his Sanctuary, amongſt his people that are peculiarly called by his name; and the unfaithful, the Hippocrite, and Rotten-hearted, ſhall tremble with the ſhaking horror of his ſearching Judgments. And you that are jolly ſpirited, merry hearted, and that take liberty to laugh, joque, and jeſt at pleaſure, the very Pillars of your Houſe ſhall tremble, you ſhall weep and mourn in ſolitary pla<g ref="char:EOLhyphen"/>ces, and ſtrow your tears in ſecret Corners.</p>
+            <p>Therefore take warning I pray you, and be humbled before the Lord, and cry mightily to him night and day, that he may take vengeance ſpeedily upon that idle and airy Spirit, from whence ſprings theſe things that are contrary to the mournful followers of the Lord Jeſus Chriſt. O I entreat you
+<pb n="8" facs="tcp:153703:4"/>watch and pray, yea, cry mightily to the Lord God of Heaven and Earth, that he may crucify and utterly ſlay this Nature in you, which hath often lead you to forgetfulneſs of God, and hath vailed and darkned you many times.</p>
+            <p>Is it not think you very ſorrowful to conſider how a great many in a little time after they have come out of a good Meeting, where they have been under a ſence of the Lords power, and have been reach'd with a tendering Viſitation, fall to idle, ſilly, needleſs diſcourſe, and it may be to laughter and jeſting, which I declare is as con<g ref="char:EOLhyphen"/>trary to what they were before as darkneſs to Light; and tell them of it, they will ſay, they think no harm; Well I tell you there is harm in it, you hurt your ſelves and others, and you lay a ſtumbling block in the way of the weak; you are bad Examples, you give occaſion to them that are with<g ref="char:EOLhyphen"/>out; for tho' they may ſeem to be pleaſed with your Company and Con<g ref="char:EOLhyphen"/>verſation,
+<pb n="9" facs="tcp:153703:4"/>they will ſlily ridicule and ſlight you as to Religion, and will, as I have heard ſome ſay, <hi>ſuch an one is as merry as we; for all his ſerious Principles he will jeſt, and laugh, and joak, and ſpeak at large, as well as we.</hi>
+            </p>
+            <p>Theſe things are not of a good ſa<g ref="char:EOLhyphen"/>vour; how do you think this will an<g ref="char:EOLhyphen"/>ſwer the End of your holy calling, which is to be the ſalt of the Earth, as Lights in the World, as a City ſet on a hill that cannot be hid. Trees of Righteouſneſs bringing forth much fruit to the glory of God, fruits of ſelf-denyal, heavenly fruits, while you are on Earth, giving a manifeſt Te<g ref="char:EOLhyphen"/>ſtimony that you are true followers of the Lamb through great tribulations. I would have you conſider Chriſt's Words in the 6th. of <hi>Luke, wo to you that laugh now for you ſhall-weep and mourn;</hi> And alſo the Apoſtles Words, <hi>Epheſians 5th.</hi> where he ſpeaks of <hi>For<g ref="char:EOLhyphen"/>nication, Covetouſneſs, Uncleanneſs, and Filthineſs;</hi> telling them theſe things
+<pb n="10" facs="tcp:153703:5"/>do not become Saints, neither <hi>fooliſh talking, nor jeſting, but rather giving of thanks.</hi> And conſider Chriſt Jeſus your Captain and Saviour, of whom it is ſaid he was never ſeen to laugh, but had often been ſeen to weep.</p>
+            <p>It is to be feared ſome of you will harden your hearts, and put at leaſt a ſilent ſlight upon this Warning and Counſel; But ſuch ſhall know aſſu<g ref="char:EOLhyphen"/>redly in a day of diſtreſs and bitter adverſity, (which ſhall certainly be their portion) that theſe ſayings are not idle tales, nor yet ſuch little mat<g ref="char:EOLhyphen"/>ters as ſome would make them; tho' while they are far and full, and in a day of proſperity they may kick a<g ref="char:EOLhyphen"/>gainſt Reproof, and puff up their hearts in wantonneſs againſt this ten<g ref="char:EOLhyphen"/>der advice.</p>
+            <p>Methinks, ſome will be ready to ſay, <hi>What would'ſt have us Melanchol<g ref="char:EOLhyphen"/>ly, Moroſe, always reſerved and ſhut up from innocent Communication?</hi> I an<g ref="char:EOLhyphen"/>ſwer
+<pb n="11" facs="tcp:153703:5"/>no, for that would be an extream on the other hand: that which I am deeply concerned to ſpeak againſt, is <hi>Laughter, fooliſh Talking,</hi> and <hi>Jeſting,</hi> and ſuch like. And that which I am ſpeak<g ref="char:EOLhyphen"/>ing for, is <hi>Temperance, Sobriety</hi> and <hi>Moderation,</hi> with watchfulneſs over our Words, Actions, Deportment, and behaviour, at all times, and in all places, upon all occaſions, remem<g ref="char:EOLhyphen"/>bring the ſaying of our Lord Jeſus Chriſt, <hi>That we muſt give an account at the day of Judgment for every idle Word we ſhall ſpeak.</hi>
+            </p>
+            <p>I do tell you again in much aſſu<g ref="char:EOLhyphen"/>rance, that the great God of the Spi<g ref="char:EOLhyphen"/>rits of all fleſh calls for mourning at your hands, and happy ſhall they be that anſwer his Call in time.</p>
+            <p>And now I am under a neceſſity to remind you of the late Prophecy of that antient eminent and faithful Meſ<g ref="char:EOLhyphen"/>ſenger and Miniſter of Jeſus Chriſt, <hi>William Edmondſon,</hi> in <hi>Dublin,</hi> at this
+<pb n="12" facs="tcp:153703:6"/>half Years Meeting: The ſubſtance of which was, That a dreadful day of diſtreſs was haſtning on apace, and ſhould ſurely come, in which the Lord would dung the Ground in this and other Nations, with the Carcaſ<g ref="char:EOLhyphen"/>ſes of Men, and that the Lord would ſhake the fair and lofty Buildings of many, with their pleaſant things that they have delighted in. And this will ſurely come to paſs as ever it was ſpoken; Therefore Friends be not of an unbelieving Heart, O ſurely that Councel is good to you, which the Lord by the Prophet <hi>Amos</hi> gave to <hi>Iſrael,</hi> when he threatned them with fore Judgment, which was on this wiſe: <hi>Thus will I do unto thee O Iſrael, and becauſe I will do this unto thee, pre<g ref="char:EOLhyphen"/>pare to meet thy God O Iſrael,</hi> Amos 4.</p>
+            <p>But my Heart mourns. Ah I am diſſreſſed in my Soul, my bowels are pained within me for the ſake of thoſe that will have their own Will; and go on their old Road, let the
+<pb n="13" facs="tcp:153703:6"/>Servants of the Lord ſay what they will as his Ambaſſadors and Mini<g ref="char:EOLhyphen"/>ſters: But I am ſatisfied there is a Remnant that will embrace this Warn<g ref="char:EOLhyphen"/>ing and Councel, and forſake, leave off, and turn their backs upon theſe fooliſh things, and thankfully come and drink a bitter Cup of Condemna<g ref="char:EOLhyphen"/>tion and Judgment for their By-paſt-Jeſts, Laughter, and wantonneſs of ſpeech and behaviour: And they ſhall come to mourn for all theſe things, by which they regardleſly paſt away much precious time, and are greatly behind hand in their days work of Salvation, which is to be wrought in fear and trembling, <hi>Phil.</hi> 2. <hi>verſ.</hi> 12. Not in Laughter and Jeſting, and they ſhall mourn and la<g ref="char:EOLhyphen"/>ment becauſe of their miſ-ſpent time, and they ſhall be diligent to redeem it, and they ſhall redeem it.</p>
+            <p>And the Lord will make theſe brave and honourable Men and Wo<g ref="char:EOLhyphen"/>men in his Work and Service, and
+<pb n="14" facs="tcp:153703:7"/>will make them ſhine in his comli<g ref="char:EOLhyphen"/>neſs in the life of Righteouſneſs and ſelf-denial, and their laſt days ſhall be their beſt days, the nearer they grow to their Grave, the nearer they ſhall be to the Lord, and the clearer ſhall be their aſſurance by his Spirit of his eternal love to them.</p>
+            <p>Finally my Friends, to whom I am writing in the bowed downneſs and grief of my Spirit, I pray you, I beſeech you with beſeechings, take warning; take the Councel, and Ad<g ref="char:EOLhyphen"/>vice of a poor Servant of the Lord; haſte and come away out of theſe fooliſh cuſtoms and practices, and touch with them no more for ever, then ſhall my ſorrowful Soul rejoice in the Lord for your ſakes, and you ſhall reap the peace and advantage of it to your poor immortal Souls, when life and time, with all theſe lower Comforts ſhall fail you.</p>
+            <pb n="15" facs="tcp:153703:7"/>
+            <p> So to the Light and Spirit of Truth I commit you, which will readily ſhow you in your ſelves thoſe things that are contrary to the life of Chriſt, and will give you power againſt them if you be faithful to its bleſſed and holy diſcoveries: And it will enable you to ſhine forth in ſobriety, gravi<g ref="char:EOLhyphen"/>ty, humility, and temperance, in all things to the Glory of the ever<g ref="char:EOLhyphen"/>laſting God, and the promotion of a ſelf-denying life, then ſhall it be well with you, whatever Judgments, Ca<g ref="char:EOLhyphen"/>lamities and Miſeries, come upon the Children of diſobedience.</p>
+            <p>And now a few Words of Comfort to thoſe that are bowed down Mour<g ref="char:EOLhyphen"/>ners in <hi>Zion,</hi> who are faithful to the Lord, but are deeply afflicted with Temptations, Tryals and Buffettings many ways, which makes them to fear, they ſhall not hold out to the End. Dear Friends, I can call you dear, for ſo you are to the Lord and to my Soul, and I will ſurely ſhew
+<pb n="16" facs="tcp:153703:8"/>you what the Lord has ſhown and ſealed to me in the Word of life, which is on this wiſe.</p>
+            <p>That you are his Peculiar and Choice Jewels, and he hath a very tender regard to you, and as you have your Eye to him, and cleave to his Spirit in your Hearts, he will ſurely keep you as the Apple of his Eye, and he will not ſuffer the de<g ref="char:EOLhyphen"/>vourer to deſtroy you; and tho' at times you may be toſſed with tem<g ref="char:EOLhyphen"/>peſts, and deeply afflicted and hardly beſet on every hand, and may ſeem for a time as if you were forſaken of the Lord, and you may be ready to doubt whether ever he will appear to your Joy and Comfort again: And tho' it may be ſo that you think your Condition not to be equal'd, and are like poor <hi>David</hi> who ſaid in his di<g ref="char:EOLhyphen"/>ſtreſs, after he had ſeen the great de<g ref="char:EOLhyphen"/>liverance of the Lord at ſeveral times, <hi>I ſhall one day fall by the hand of Saul.</hi> Yet the Lord God of his ſure mercies
+<pb n="17" facs="tcp:153703:8"/>gave him to ſee the deſire of his Soul at laſt, and delivereth him out of all diſtreſs. Even ſo will the Lord do for you, whoſe minds are ſtay'd up<g ref="char:EOLhyphen"/>on him, and truly truſt in him, and therefore let patience have its perfect Work, and endeavour to be content with the dealings of the Lord, for he knows beſt what is beſt for you: And have a great care you are not in<g ref="char:EOLhyphen"/>ſtrumental for want of Patience to encreaſe your Exerciſe. For I know by my own Experience, that when the Lord brings the Soul into the fiery Furnace, which is the Spirit of Judgment and burning, <hi>Iſa.</hi> 4. then the Enemy he works to make it un<g ref="char:EOLhyphen"/>eaſie and reſtleſs under the purifying Judgments of the Lord; And then if it be not watchful it grows impatient, and here a cloud of Exerciſes and Doubtings comes over it, and ſome<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imes is almoſt brought to the Gates and Jaws of Deſpair. And thus a hultitude of unprofitable Afflictions
+<pb n="18" facs="tcp:153703:9"/>has come upon ſome for want of Pa<g ref="char:EOLhyphen"/>tience and for want of being reſigned and given up in all things to the Will of God, to truſt their All in his hands being faithful and diligent in his Work.</p>
+            <p>Again, ſometimes the LORD is pleaſed to hide his Face for a mo<g ref="char:EOLhyphen"/>ment, for the exerciſe of the Soul, according to his great Wiſdom for its good; Then the Enemy he works again to bring into impatience, and if he prevails, then he labours in the next place, to ſet the Soul at work for it ſelf without the LORD, to get enjoyments of its own, and kindle ſparks of Fire, by the heat and Strug<g ref="char:EOLhyphen"/>lings of its own Spirit. And now a<g ref="char:EOLhyphen"/>gain abundance of exerciſes follows upon this, for theſe emty Flaſhes holds not long; when the Soul comes to be ſenſible it lies down in ſorrow, and ſometimes the LORD is pleaſed to ſuffer it to dwell, as in a
+<pb n="19" facs="tcp:153703:9"/>Land of Drought for a ſeaſon, and now is ready to be caſt down into great diſ<g ref="char:EOLhyphen"/>couragements again: And all this is for want of true patience, and a free and conſtant giving up of the will to the will of GOD, and to become as Clay in the Hand of the Potter, Read <hi>Iſa.</hi> 50. <hi>verſ.</hi> 10, 11.</p>
+            <p>And therefore this is the word of Advice, which I tenderly give unto all ſuch, as are in deep exerciſes of Affliction, upon your Souls account.</p>
+            <p>Wait often upon the LORD, not only in Meetings but out of Meetings alſo, that you may feel his Power to ſubject your Wills to his Will, and in every thing to be reſigned to his diſpoſe and dealings, and then Hard things will be made Eaſie, and Bitter things will be made Sweet: And in the LORD's time, through many Tri<g ref="char:EOLhyphen"/>bulations, you ſhall come forth as Gold Seven times Refined, and your War<g ref="char:EOLhyphen"/>fare
+<pb n="20" facs="tcp:153703:10"/>ſhall be accompliſhed, and your Iniquity pardoned, and you ſhall dwell for ever in that City, where the Inhabitants ſhall not ſay I am Sick, but the People that dwell therein ſhall be all Righteous, and the LORD ſhall be your everlaſting Light, and their GOD their Glory, and the days of your Mourning ſhall be ended, for Sorrow and Sighing ſhall flee away.</p>
+            <p>And then you Bowed down ones of many Afflictions, you ſhall lift up your Bowed down heads, and by living experience ſing that bleſſed Song of <hi>Zion,</hi> That the LORD GOD eternal hath turned your Captivity as the ſtreams of the South, and has done great things for you, whereof you are glad, he hath turned your barren Wilderneſs and deſolate De<g ref="char:EOLhyphen"/>ſert, into an holy and heavenly Pa<g ref="char:EOLhyphen"/>radice, where you Eat of the Tree of Life, and Drink of the Water of Life freely.</p>
+            <pb n="21" facs="tcp:153703:10"/>
+            <p> I can ſay my Heart overflows with love to you poor afflicted Souls every where, and I do ſimpathize with you according to my experience, and do pray to the LORD for you, that you may have Patience, and be reſigned into the hand of the LORD, ſubject to his will in all things; and then never doubt but he that has laid the Foundation, will in his own time lay the Top-Stone alſo, I ſay this flows forth in a Spring of pure Love to you.</p>
+            <p>From one, who (thô young in Years) have paſt through many deep Exerciſes, and have ſeen the wonderful deliverances of the LORD, in many great Temptati<g ref="char:EOLhyphen"/>ons, and have as much reaſon as any man living to keep humble, and low, and watchful, before the
+<pb n="22" facs="tcp:153703:11"/>LORD, all the remainder of the days of my Pil<g ref="char:EOLhyphen"/>grimage.</p>
+            <closer>
+               <signed>Thomas Upſher.</signed>
+               <dateline>Dublin <date>15th of the 3d <hi>Month,</hi> 1699.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
